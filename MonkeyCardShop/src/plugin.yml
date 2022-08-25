@@ -1,0 +1,15 @@
+name: MonkeyCardShop
+author: KingMonkeyy
+version: 1.16.3
+api-version: 1.13
+main: com.stinkymonkey.cardshop.main
+depend: [Vault]
+
+commands: 
+  cardshop:
+    description: gui
+    
+permissions:
+  MonkeyCS.gui:
+    default: true
+    description: Access Gui

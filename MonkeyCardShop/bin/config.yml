@@ -1,0 +1,1199 @@
+settings:
+  mainName: "&3Card &fShop"
+  invSlotMain: 27
+cat1:
+  slot: 9
+  # Display
+  displayName: "&7&lCommon"
+  itemType: "PAPER"
+  lore:
+    - ""
+cat2:
+  slot: 10
+  # Display
+  displayName: "&b&lRare"
+  itemType: "PAPER"
+  lore:
+    - ""
+cat3:
+  slot: 11
+  # Display
+  displayName: "&5&lEpic"
+  itemType: "PAPER"
+  lore:
+    - ""
+cat4:
+  slot: 12
+  # Display
+  displayName: "&6&lLegendary"
+  itemType: "PAPER"
+  lore:
+    - ""
+cat5:
+  slot: 13
+  # Display
+  displayName: "&4&lMythical"
+  itemType: "PAPER"
+  lore:
+    - ""
+cat6:
+  slot: 14
+  # Display
+  displayName: "&3&lDeity"
+  itemType: "PAPER"
+  lore:
+    - ""
+cat7:
+  slot: 15
+  # Display
+  displayName: "&5&lCreatures"
+  itemType: "PAPER"
+  lore:
+    - ""
+cat8:
+  slot: 16
+  # Display
+  displayName: "&4&lNether"
+  itemType: "PAPER"
+  lore:
+    - ""
+cat9:
+  slot: 17
+  # Display
+  displayName: "&f&lEnd &fCards"
+  itemType: "PAPER"
+  lore:
+    - ""
+    
+card1:
+  slot: 0 
+  price: 15000.0
+  # Name of category branch ex. cat1
+  category: "cat1"
+  rarity: "Common"
+  # Display Name Is The Name Of The CARD!!! ex. &7[&fCard&7] &7Panda (color format does not matter)
+  displayName: "&7[&fCard&7] &7Bat"
+  itemType: "PAPER"
+  lore:
+    - "&bType: &fPassive"
+    - "&eInfo: &fNone"
+    - "&aSeries &f2021"
+    - "&7&lCommon"
+card2:
+  slot: 1 
+  price: 15000.0
+  category: "cat1"
+  rarity: "Common"
+  displayName: "&7[&fCard&7] &7Zombie"
+  itemType: "PAPER"
+  lore:
+    - "&bType: &fHostile"
+    - "&eInfo: &fNone"
+    - "&aSeries &f2021"
+    - "&7&lCommon"
+card3:
+  slot: 2 
+  price: 15000.0
+  category: "cat1"
+  rarity: "Common"
+  displayName: "&7[&fCard&7] &7Ocelot"
+  itemType: "PAPER"
+  lore:
+    - "&bType: &fPassive"
+    - "&eInfo: &fNone"
+    - "&aSeries &f2021"
+    - "&7&lCommon"
+card5:
+  slot: 4 
+  price: 15000.0
+  category: "cat1"
+  rarity: "Common"
+  displayName: "&7[&fCard&7] &7Chicken"
+  itemType: "PAPER"
+  lore:
+    - "&bType: &fPassive"
+    - "&eInfo: &fNone"
+    - "&aSeries &f2021"
+    - "&7&lCommon"
+card6:
+  slot: 5 
+  price: 15000.0
+  category: "cat1"
+  rarity: "Common"
+  displayName: "&7[&fCard&7] &7Cow"
+  itemType: "PAPER"
+  lore:
+    - "&bType: &fPassive"
+    - "&eInfo: &fNone"
+    - "&aSeries &f2021"
+    - "&7&lCommon"
+card8:
+  slot: 7 
+  price: 15000.0
+  category: "cat1"
+  rarity: "Common"
+  displayName: "&7[&fCard&7] &7Donkey"
+  itemType: "PAPER"
+  lore:
+    - "&bType: &fPassive"
+    - "&eInfo: &fNone"
+    - "&aSeries &f2021"
+    - "&7&lCommon"
+card9:
+  slot: 8 
+  price: 15000.0
+  category: "cat1"
+  rarity: "Common"
+  displayName: "&7[&fCard&7] &7Horse"
+  itemType: "PAPER"
+  lore:
+    - "&bType: &fPassive"
+    - "&eInfo: &fNone"
+    - "&aSeries &f2021"
+    - "&7&lCommon"
+card10:
+  slot: 9 
+  price: 15000.0
+  category: "cat1"
+  rarity: "Common"
+  displayName: "&7[&fCard&7] &7Rabbit"
+  itemType: "PAPER"
+  lore:
+    - "&bType: &fPassive"
+    - "&eInfo: &fNone"
+    - "&aSeries &f2021"
+    - "&7&lCommon"
+card11:
+  slot: 10
+  price: 15000.0
+  category: "cat1"
+  rarity: "Common"
+  displayName: "&7[&fCard&7] &7Pufferfish"
+  itemType: "PAPER"
+  lore:
+    - "&bType: &fNeutral"
+    - "&eInfo: &fNone"
+    - "&aSeries &f2021"
+    - "&7&lCommon"
+card12:
+  slot: 11
+  price: 15000.0
+  category: "cat1"
+  rarity: "Common"
+  displayName: "&7[&fCard&7] &7Sheep"
+  itemType: "PAPER"
+  lore:
+    - "&bType: &fPassive"
+    - "&eInfo: &fNone"
+    - "&aSeries &f2021"
+    - "&7&lCommon"
+card13:
+  slot: 12 
+  price: 15000.0
+  category: "cat1"
+  rarity: "Common"
+  displayName: "&7[&fCard&7] &7Squid"
+  itemType: "PAPER"
+  lore:
+    - "&bType: &fPassive"
+    - "&eInfo: &fNone"
+    - "&aSeries &f2021"
+    - "&7&lCommon"
+card14:
+  slot: 13
+  price: 15000.0
+  category: "cat1"
+  rarity: "Common"
+  displayName: "&7[&fCard&7] &7Salmon"
+  itemType: "PAPER"
+  lore:
+    - "&bType: &fPassive"
+    - "&eInfo: &fNone"
+    - "&aSeries &f2021"
+    - "&7&lCommon"
+card15:
+  slot: 14
+  price: 15000.0
+  category: "cat1"
+  rarity: "Common"
+  displayName: "&7[&fCard&7] &7Cod"
+  itemType: "PAPER"
+  lore:
+    - "&bType: &fPassive"
+    - "&eInfo: &fNone"
+    - "&aSeries &f2021"
+    - "&7&lCommon"
+card16:
+  slot: 15
+  price: 15000.0
+  category: "cat1"
+  rarity: "Common"
+  displayName: "&7[&fCard&7] &7Turtle"
+  itemType: "PAPER"
+  lore:
+    - "&bType: &fPassive"
+    - "&eInfo: &fNone"
+    - "&aSeries &f2021"
+    - "&7&lCommon"
+card17:
+  slot: 16
+  price: 15000.0
+  category: "cat1"
+  rarity: "Common"
+  displayName: "&7[&fCard&7] &7Bee"
+  itemType: "PAPER"
+  lore:
+    - "&bType: &fNeutral"
+    - "&eInfo: &fNone"
+    - "&aSeries &f2021"
+    - "&7&lCommon"
+card18:
+  slot: 17
+  price: 15000.0
+  category: "cat1"
+  rarity: "Common"
+  displayName: "&7[&fCard&7] &7Dolphin"
+  itemType: "PAPER"
+  lore:
+    - "&bType: &fPassive"
+    - "&eInfo: &fNone"
+    - "&aSeries &f2021"
+    - "&7&lCommon"
+card19:
+  slot: 18
+  price: 15000.0
+  category: "cat1"
+  rarity: "Common"
+  displayName: "&7[&fCard&7] &7Panda"
+  itemType: "PAPER"
+  lore:
+    - "&bType: &fPassive"
+    - "&eInfo: &fNone"
+    - "&aSeries &f2021"
+    - "&7&lNeutral"
+card20:
+  slot: 19
+  price: 15000.0
+  category: "cat1"
+  rarity: "Common"
+  displayName: "&7[&fCard&7] &7Llama"
+  itemType: "PAPER"
+  lore:
+    - "&bType: &fPassive"
+    - "&eInfo: &fNone"
+    - "&aSeries &f2021"
+    - "&7&lNeutral"
+
+# RARE
+card21:
+  slot: 0
+  price: 25000.0
+  category: "cat2"
+  rarity: "Rare"
+  displayName: "&7[&fCard&7] &bCreeper"
+  itemType: "PAPER"
+  lore:
+    - "&bType: &fHostile"
+    - "&eInfo: &fNone"
+    - "&aSeries &f2021"
+    - "&b&lRare"
+card22:
+  slot: 1
+  price: 25000.0
+  category: "cat2"
+  rarity: "Rare"
+  displayName: "&7[&fCard&7] &bSkeleton"
+  itemType: "PAPER"
+  lore:
+    - "&bType: &fHostile"
+    - "&eInfo: &fNone"
+    - "&aSeries &f2021"
+    - "&b&lRare"
+card23:
+  slot: 2
+  price: 25000.0
+  category: "cat2"
+  rarity: "Rare"
+  displayName: "&7[&fCard&7] &bHusk"
+  itemType: "PAPER"
+  lore:
+    - "&bType: &fHostile"
+    - "&eInfo: &fNone"
+    - "&aSeries &f2021"
+    - "&b&lRare"
+card24:
+  slot: 3
+  price: 25000.0
+  category: "cat2"
+  rarity: "Rare"
+  displayName: "&7[&fCard&7] &bStray"
+  itemType: "PAPER"
+  lore:
+    - "&bType: &fHostile"
+    - "&eInfo: &fNone"
+    - "&aSeries &f2021"
+    - "&b&lRare"
+card25:
+  slot: 4
+  price: 25000.0
+  category: "cat2"
+  rarity: "Rare"
+  displayName: "&7[&fCard&7] &bSpider"
+  itemType: "PAPER"
+  lore:
+    - "&bType: &fHostile"
+    - "&eInfo: &fNone"
+    - "&aSeries &f2021"
+    - "&b&lRare"
+card26:
+  slot: 5
+  price: 25000.0
+  category: "cat2"
+  rarity: "Rare"
+  displayName: "&7[&fCard&7] &bCave Spider"
+  itemType: "PAPER"
+  lore:
+    - "&bType: &fHostile"
+    - "&eInfo: &fNone"
+    - "&aSeries &f2021"
+    - "&b&lRare"
+card27:
+  slot: 6
+  price: 25000.0
+  category: "cat2"
+  rarity: "Rare"
+  displayName: "&7[&fCard&7] &bSilverfish"
+  itemType: "PAPER"
+  lore:
+    - "&bType: &fHostile"
+    - "&eInfo: &fNone"
+    - "&aSeries &f2021"
+    - "&b&lRare"
+card28:
+  slot: 7
+  price: 25000.0
+  category: "cat2"
+  rarity: "Rare"
+  displayName: "&7[&fCard&7] &bWitch"
+  itemType: "PAPER"
+  lore:
+    - "&bType: &fHostile"
+    - "&eInfo: &fNone"
+    - "&aSeries &f2021"
+    - "&b&lRare"
+card29:
+  slot: 8
+  price: 25000.0
+  category: "cat2"
+  rarity: "Rare"
+  displayName: "&7[&fCard&7] &bSlime"
+  itemType: "PAPER"
+  lore:
+    - "&bType: &fHostile"
+    - "&eInfo: &fNone"
+    - "&aSeries &f2021"
+    - "&b&lRare"
+
+# Epic
+card30:
+  slot: 0
+  price: 50000.0
+  category: "cat3"
+  rarity: "Epic"
+  displayName: "&7[&fCard&7] &5Phantom"
+  itemType: "PAPER"
+  lore:
+    - "&bType: &fHostile"
+    - "&eInfo: &fNone"
+    - "&aSeries &f2021"
+    - "&5&lEpic"
+card31:
+  slot: 1
+  price: 50000.0
+  category: "cat3"
+  rarity: "Epic"
+  displayName: "&7[&fCard&7] &5Skeleton Horse"
+  itemType: "PAPER"
+  lore:
+    - "&bType: &fPassive"
+    - "&eInfo: &fNone"
+    - "&aSeries &f2021"
+    - "&5&lEpic"
+card32:
+  slot: 2
+  price: 50000.0
+  category: "cat3"
+  rarity: "Epic"
+  displayName: "&7[&fCard&7] &5Snow Golem"
+  itemType: "PAPER"
+  lore:
+    - "&bType: &fPassive"
+    - "&eInfo: &fNone"
+    - "&aSeries &f2021"
+    - "&5&lEpic"
+card33:
+  slot: 3
+  price: 50000.0
+  category: "cat3"
+  rarity: "Epic"
+  displayName: "&7[&fCard&7] &5Iron Golem"
+  itemType: "PAPER"
+  lore:
+    - "&bType: &fNeutral"
+    - "&eInfo: &fNone"
+    - "&aSeries &f2021"
+    - "&5&lEpic"
+card34:
+  slot: 4
+  price: 50000.0
+  category: "cat3"
+  rarity: "Epic"
+  displayName: "&7[&fCard&7] &5Guardian"
+  itemType: "PAPER"
+  lore:
+    - "&bType: &fHostile"
+    - "&eInfo: &fNone"
+    - "&aSeries &f2021"
+    - "&5&lEpic"
+card35:
+  slot: 5
+  price: 50000.0
+  category: "cat3"
+  rarity: "Epic"
+  displayName: "&7[&fCard&7] &5Vindicator"
+  itemType: "PAPER"
+  lore:
+    - "&bType: &fHostile"
+    - "&eInfo: &fNone"
+    - "&aSeries &f2021"
+    - "&5&lEpic"
+card36:
+  slot: 6
+  price: 50000.0
+  category: "cat3"
+  rarity: "Epic"
+  displayName: "&7[&fCard&7] &5Evoker"
+  itemType: "PAPER"
+  lore:
+    - "&bType: &fHostile"
+    - "&eInfo: &fNone"
+    - "&aSeries &f2021"
+    - "&5&lEpic"
+    
+# Legendary
+card37:
+  slot: 0
+  price: 100000.0
+  category: "cat4"
+  rarity: "Legendary"
+  displayName: "&7[&fCard&7] &6Killer Bunny"
+  itemType: "PAPER"
+  lore:
+    - "&bType: &fHostile"
+    - "&eInfo: &fNone"
+    - "&aSeries &f2021"
+    - "&6&lLegendary"
+card38:
+  slot: 1
+  price: 100000.0
+  category: "cat4"
+  rarity: "Legendary"
+  displayName: "&7[&fCard&7] &6Illusioner"
+  itemType: "PAPER"
+  lore:
+    - "&bType: &fHostile"
+    - "&eInfo: &fNone"
+    - "&aSeries &f2021"
+    - "&6&lLegendary"
+card39:
+  slot: 2
+  price: 100000.0
+  category: "cat4"
+  rarity: "Legendary"
+  displayName: "&7[&fCard&7] &6Zombie Horse"
+  itemType: "PAPER"
+  lore:
+    - "&bType: &fPassive"
+    - "&eInfo: &fNone"
+    - "&aSeries &f2021"
+    - "&6&lLegendary"
+card40:
+  slot: 3
+  price: 100000.0
+  category: "cat4"
+  rarity: "Legendary"
+  displayName: "&7[&fCard&7] &6Polar Bear"
+  itemType: "PAPER"
+  lore:
+    - "&bType: &fNeutral"
+    - "&eInfo: &fNone"
+    - "&aSeries &f2021"
+    - "&6&lLegendary"
+card41:
+  slot: 4
+  price: 100000.0
+  category: "cat4"
+  rarity: "Legendary"
+  displayName: "&7[&fCard&7] &6Mooshroom"
+  itemType: "PAPER"
+  lore:
+    - "&bType: &fNeutral"
+    - "&eInfo: &fNone"
+    - "&aSeries &f2021"
+    - "&6&lLegendary"
+
+# Mythical
+card42:
+  slot: 0
+  price: 200000.0
+  category: "cat5"
+  rarity: "Mythical"
+  displayName: "&7[&fCard&7] &4Giant"
+  itemType: "PAPER"
+  lore:
+    - "&bType: &fBoss"
+    - "&eInfo: &fNone"
+    - "&aSeries &f2021"
+    - "&4&lMythical"
+card43:
+  slot: 1
+  price: 200000.0
+  category: "cat5"
+  rarity: "Mythical"
+  displayName: "&7[&fCard&7] &4Elder Guardian"
+  itemType: "PAPER"
+  lore:
+    - "&bType: &fBoss"
+    - "&eInfo: &fNone"
+    - "&aSeries &f2021"
+    - "&4&lMythical"
+card44:
+  slot: 2
+  price: 200000.0
+  category: "cat5"
+  rarity: "Mythical"
+  displayName: "&7[&fCard&7] &4Dyslexiic"
+  itemType: "PAPER"
+  lore:
+    - "&bType: &fLegend"
+    - "&eInfo:"
+    - "   &7-&fExclusive to Legend Series"
+    - "&aSeries &f2021"
+    - "&4&lMythical"
+card45:
+  slot: 3
+  price: 200000.0
+  category: "cat5"
+  rarity: "Mythical"
+  displayName: "&7[&fCard&7] &4bcuziwasbored"
+  itemType: "PAPER"
+  lore:
+    - "&bType: &fLegend"
+    - "&eInfo: "
+    - "  &7-&fExclusive to Legend Series"
+    - "&aSeries &f2021"
+    - "&4&lMythical"
+
+# Deity
+card46:
+  slot: 0
+  price: 15000.0
+  category: "cat6"
+  rarity: "Deity"
+  displayName: "&7[&fCard&7] &3Hades"
+  itemType: "PAPER"
+  lore:
+    - "&bType: &fOlympian God"
+    - "&eInfo: "
+    - "  &7-&fGreek God of Death"
+    - "&aSeries &f2021"
+    - "&3&lDeity"
+card47:
+  slot: 1
+  price: 15000.0
+  category: "cat6"
+  rarity: "Deity"
+  displayName: "&7[&fCard&7] &3Zeus"
+  itemType: "PAPER"
+  lore:
+    - "&bType: &fOlympian God"
+    - "&eInfo:"
+    - "  &7-&fGreek God of the Sky"
+    - "&aSeries &f2021"
+    - "&3&lDeity"
+card48:
+  slot: 2
+  price: 15000.0
+  category: "cat6"
+  rarity: "Deity"
+  displayName: "&7[&fCard&7] &3Poseidon"
+  itemType: "PAPER"
+  lore:
+    - "&bType: &fOlympian God"
+    - "&eInfo: "
+    - "  &7-&fGreek God of the Sea"
+    - "&aSeries &f2021"
+    - "&3&lDeity"
+card49:
+  slot: 3
+  price: 15000.0
+  category: "cat6"
+  rarity: "Deity"
+  displayName: "&7[&fCard&7] &3Apollo"
+  itemType: "PAPER"
+  lore:
+    - "&bType: &fOlympian God"
+    - "&eInfo: "
+    - "  &7-&fGreek God of Prophecy"
+    - "&aSeries &f2021"
+    - "&3&lDeity"
+card50:
+  slot: 4
+  price: 15000.0
+  category: "cat6"
+  rarity: "Deity"
+  displayName: "&7[&fCard&7] &3Aphrodite"
+  itemType: "PAPER"
+  lore:
+    - "&bType: &fOlympian Godess"
+    - "&eInfo: "
+    - "  &7-&fGreek Godess of Love"
+    - "&aSeries &f2021"
+    - "&3&lDeity"
+card51:
+  slot: 5
+  price: 15000.0
+  category: "cat6"
+  rarity: "Deity"
+  displayName: "&7[&fCard&7] &3Athena"
+  itemType: "PAPER"
+  lore:
+    - "&bType: &fOlympian Godess"
+    - "&eInfo: "
+    - "  &7-&fGreek Godess of Wisdom"
+    - "&aSeries &f2021"
+    - "&3&lDeity"
+card52:
+  slot: 6
+  price: 15000.0
+  category: "cat6"
+  rarity: "Deity"
+  displayName: "&7[&fCard&7] &3Bellona"
+  itemType: "PAPER"
+  lore:
+    - "&bType: &fRoman Goddess"
+    - "&eInfo: "
+    - "  &7-&fRoman Godess of War"
+    - "&aSeries &f2021"
+    - "&3&lDeity"
+card53:
+  slot: 7
+  price: 15000.0
+  category: "cat6"
+  rarity: "Deity"
+  displayName: "&7[&fCard&7] &3Khepri"
+  itemType: "PAPER"
+  lore:
+    - "&bType: &fEgyptian God"
+    - "&eInfo: "
+    - "  &7-&fEgyptian God of Creation"
+    - "&aSeries &f2021"
+    - "&3&lDeity"
+card54:
+  slot: 8
+  price: 15000.0
+  category: "cat6"
+  rarity: "Deity"
+  displayName: "&7[&fCard&7] &3Osiris"
+  itemType: "PAPER"
+  lore:
+    - "&bType: &fEgyptian God"
+    - "&eInfo: "
+    - "  &7-&fEgyptian God of the Afterlife"
+    - "&aSeries &f2021"
+    - "&3&lDeity"
+card55:
+  slot: 9
+  price: 15000.0
+  category: "cat6"
+  rarity: "Deity"
+  displayName: "&7[&fCard&7] &3Horus"
+  itemType: "PAPER"
+  lore:
+    - "&bType: &fEgyptian God"
+    - "&eInfo: "
+    - "  &7-&fEgyptian God of the Sky"
+    - "&aSeries &f2021"
+    - "&3&lDeity"
+card56:
+  slot: 10
+  price: 15000.0
+  category: "cat6"
+  rarity: "Deity"
+  displayName: "&7[&fCard&7] &3Ra"
+  itemType: "PAPER"
+  lore:
+    - "&bType: &fEgyptian God"
+    - "&eInfo: "
+    - "  &7-&fEgyptian God of the Sun"
+    - "&aSeries &f2021"
+    - "&3&lDeity"
+card57:
+  slot: 11
+  price: 15000.0
+  category: "cat6"
+  rarity: "Deity"
+  displayName: "&7[&fCard&7] &3Anubis"
+  itemType: "PAPER"
+  lore:
+    - "&bType: &fEgyptian God"
+    - "&eInfo: "
+    - "  &-&fEgyptian God of Death"
+    - "&aSeries &f2021"
+    - "&3&lDeity"
+card58:
+  slot: 12
+  price: 15000.0
+  category: "cat6"
+  rarity: "Deity"
+  displayName: "&7[&fCard&7] &3Sobek"
+  itemType: "PAPER"
+  lore:
+    - "&bType: &fEgyptian God"
+    - "&eInfo: "
+    - "  &7-&fEgyptian God of the Nile"
+    - "&aSeries &f2021"
+    - "&3&lDeity"
+card59:
+  slot: 13
+  price: 15000.0
+  category: "cat6"
+  rarity: "Deity"
+  displayName: "&7[&fCard&7] &3Sekhmet"
+  itemType: "PAPER"
+  lore:
+    - "&bType: &fEgyptian Godess"
+    - "&eInfo: "
+    - "  &7&fEgyptian Godess of War"
+    - "&aSeries &f2021"
+    - "&3&lDeity"
+card60:
+  slot: 14
+  price: 15000.0
+  category: "cat6"
+  rarity: "Deity"
+  displayName: "&7[&fCard&7] &3Hestia"
+  itemType: "PAPER"
+  lore:
+    - "&bType: &fGreek Godess"
+    - "&eInfo: "
+    - "  &7-&fGreek Godess of Architecture"
+    - "&aSeries &f2021"
+    - "&3&lDeity"
+    
+# Creatures
+card61:
+  slot: 0
+  price: 15000.0
+  category: "cat7"
+  rarity: "Creatures"
+  displayName: "&7[&fCard&7] &5Centaur"
+  itemType: "PAPER"
+  lore:
+    - "&bType: &fMythical"
+    - "&eInfo: "
+    - "  &7-&fGreek"
+    - "&aSeries &f2021"
+    - "&3&lCreatures"
+card62:
+  slot: 1
+  price: 15000.0
+  category: "cat7"
+  rarity: "Creatures"
+  displayName: "&7[&fCard&7] &5Hydra"
+  itemType: "PAPER"
+  lore:
+    - "&bType: &fMythical"
+    - "&eInfo: "
+    - "  &7-&fGreek"
+    - "&aSeries &f2021"
+    - "&3&lCreatures"
+card63:
+  slot: 2
+  price: 15000.0
+  category: "cat7"
+  rarity: "Creatures"
+  displayName: "&7[&fCard&7] &5Phoenix"
+  itemType: "PAPER"
+  lore:
+    - "&bType: &fMythical"
+    - "&eInfo: "
+    - "  &7-&fGreek"
+    - "&aSeries &f2021"
+    - "&3&lCreatures"
+card64:
+  slot: 3
+  price: 15000.0
+  category: "cat7"
+  rarity: "Creatures"
+  displayName: "&7[&fCard&7] &5Cyclops"
+  itemType: "PAPER"
+  lore:
+    - "&bType: &fMythical"
+    - "&eInfo: "
+    - "  &7-&fGreek"
+    - "&aSeries &f2021"
+    - "&3&lCreatures"
+card65:
+  slot: 4
+  price: 15000.0
+  category: "cat7"
+  rarity: "Creatures"
+  displayName: "&7[&fCard&7] &5Kraken"
+  itemType: "PAPER"
+  lore:
+    - "&bType: &fMythical"
+    - "&eInfo: "
+    - "  &7-&fViking"
+    - "&aSeries &f2021"
+    - "&3&lCreatures"
+card66:
+  slot: 5
+  price: 15000.0
+  category: "cat7"
+  rarity: "Creatures"
+  displayName: "&7[&fCard&7] &5Gorgon"
+  itemType: "PAPER"
+  lore:
+    - "&bType: &fMythical"
+    - "&eInfo: "
+    - "  &7-&fGreek"
+    - "&aSeries &f2021"
+    - "&3&lCreatures"
+card67:
+  slot: 6
+  price: 15000.0
+  category: "cat7"
+  rarity: "Creatures"
+  displayName: "&7[&fCard&7] &5Griffin"
+  itemType: "PAPER"
+  lore:
+    - "&bType: &fMythical"
+    - "&eInfo: "
+    - "  &7-&fEgyptian"
+    - "&aSeries &f2021"
+    - "&3&lCreatures"
+card68:
+  slot: 7
+  price: 15000.0
+  category: "cat7"
+  rarity: "Creatures"
+  displayName: "&7[&fCard&7] &5Minotaur"
+  itemType: "PAPER"
+  lore:
+    - "&bType: &fMythical"
+    - "&eInfo: "
+    - "  &7-&fGreek"
+    - "&aSeries &f2021"
+    - "&3&lCreatures"
+card69:
+  slot: 8
+  price: 15000.0
+  category: "cat7"
+  rarity: "Creatures"
+  displayName: "&7[&fCard&7] &5Sphinx"
+  itemType: "PAPER"
+  lore:
+    - "&bType: &fMythical"
+    - "&eInfo: "
+    - "  &7-&fEgyptian"
+    - "&aSeries &f2021"
+    - "&3&lCreatures"
+card70:
+  slot: 9
+  price: 15000.0
+  category: "cat7"
+  rarity: "Creatures"
+  displayName: "&7[&fCard&7] &5Typhon"
+  itemType: "PAPER"
+  lore:
+    - "&bType: &fMythical"
+    - "&eInfo: "
+    - "  &7-&fGreek"
+    - "&aSeries &f2021"
+    - "&3&lCreatures"
+card71:
+  slot: 10
+  price: 15000.0
+  category: "cat7"
+  rarity: "Creatures"
+  displayName: "&7[&fCard&7] &5Pegasus"
+  itemType: "PAPER"
+  lore:
+    - "&bType: &fMythical"
+    - "&eInfo: "
+    - "  &7-&fGreek"
+    - "&aSeries &f2021"
+    - "&3&lCreatures"
+card72:
+  slot: 11
+  price: 15000.0
+  category: "cat7"
+  rarity: "Creatures"
+  displayName: "&7[&fCard&7] &5Lyacon"
+  itemType: "PAPER"
+  lore:
+    - "&bType: &fMythical"
+    - "&eInfo: "
+    - "  &7-&fGreek"
+    - "&aSeries &f2021"
+    - "&3&lCreatures"
+card73:
+  slot: 12
+  price: 15000.0
+  category: "cat7"
+  rarity: "Creatures"
+  displayName: "&7[&fCard&7] &5Cthulhu"
+  itemType: "PAPER"
+  lore:
+    - "&bType: &fMythical"
+    - "&eInfo: "
+    - "  &7-&fFictional Universe"
+    - "&aSeries &f2021"
+    - "&3&lCreatures"
+card74:
+  slot: 13
+  price: 15000.0
+  category: "cat7"
+  rarity: "Creatures"
+  displayName: "&7[&fCard&7] &5Hippogriff"
+  itemType: "PAPER"
+  lore:
+    - "&bType: &fMythical"
+    - "&eInfo: "
+    - "  &7-&fGreek"
+    - "&aSeries &f2021"
+    - "&3&lCreatures"
+card75:
+  slot: 14
+  price: 15000.0
+  category: "cat7"
+  rarity: "Creatures"
+  displayName: "&7[&fCard&7] &5Hippocampus"
+  itemType: "PAPER"
+  lore:
+    - "&bType: &fMythical"
+    - "&eInfo: "
+    - "  &7-&fGreek"
+    - "&aSeries &f2021"
+    - "&3&lCreatures"
+
+# Nether
+card76:
+  slot: 0
+  price: 75000.0
+  category: "cat8"
+  rarity: "Creatures"
+  displayName: "&7[&fCard&7] &4Zombified Piglin"
+  itemType: "PAPER"
+  lore:
+    - "&bType: &fNether Series"
+    - "&eInfo: "
+    - "  &7-&fExclusive to Nether"
+    - "  &7-&fSeries"
+    - "&aSeries &f2021"
+    - "&4&lNether"
+card77:
+  slot: 1
+  price: 75000.0
+  category: "cat8"
+  rarity: "Creatures"
+  displayName: "&7[&fCard&7] &4Hoglin"
+  itemType: "PAPER"
+  lore:
+    - "&bType: &fNether Series"
+    - "&eInfo: "
+    - "  &7-&fExclusive to Nether"
+    - "  &7-&fSeries"
+    - "&aSeries &f2021"
+    - "&4&lNether"
+card78:
+  slot: 2
+  price: 75000.0
+  category: "cat8"
+  rarity: "Creatures"
+  displayName: "&7[&fCard&7] &4Zoglin"
+  itemType: "PAPER"
+  lore:
+    - "&bType: &fNether Series"
+    - "&eInfo: "
+    - "  &7-&fExclusive to Nether"
+    - "  &7-&fSeries"
+    - "&aSeries &f2021"
+    - "&4&lNether"
+card79:
+  slot: 3
+  price: 75000.0
+  category: "cat8"
+  rarity: "Creatures"
+  displayName: "&7[&fCard&7] &4Piglin Brute"
+  itemType: "PAPER"
+  lore:
+    - "&bType: &fNether Series"
+    - "&eInfo: "
+    - "  &7-&fExclusive to Nether"
+    - "  &7-&fSeries"
+    - "&aSeries &f2021"
+    - "&4&lNether"
+card80:
+  slot: 4
+  price: 75000.0
+  category: "cat8"
+  rarity: "Creatures"
+  displayName: "&7[&fCard&7] &4Strider"
+  itemType: "PAPER"
+  lore:
+    - "&bType: &fNether Series"
+    - "&eInfo: "
+    - "  &7-&fExclusive to Nether"
+    - "  &7-&fSeries"
+    - "&aSeries &f2021"
+    - "&4&lNether"
+card81:
+  slot: 5
+  price: 75000.0
+  category: "cat8"
+  rarity: "Creatures"
+  displayName: "&7[&fCard&7] &4Ghast"
+  itemType: "PAPER"
+  lore:
+    - "&bType: &fNether Series"
+    - "&eInfo: "
+    - "  &7-&fExclusive to Nether"
+    - "  &7-&fSeries"
+    - "&aSeries &f2021"
+    - "&4&lNether"
+card82:
+  slot: 6
+  price: 75000.0
+  category: "cat8"
+  rarity: "Creatures"
+  displayName: "&7[&fCard&7] &4Blaze"
+  itemType: "PAPER"
+  lore:
+    - "&bType: &fNether Series"
+    - "&eInfo: "
+    - "  &7-&fExclusive to Nether"
+    - "  &7-&fSeries"
+    - "&aSeries &f2021"
+    - "&4&lNether"
+card83:
+  slot: 7
+  price: 75000.0
+  category: "cat8"
+  rarity: "Creatures"
+  displayName: "&7[&fCard&7] &4Wither Skeleton"
+  itemType: "PAPER"
+  lore:
+    - "&bType: &fNether Series"
+    - "&eInfo: "
+    - "  &7-&fExclusive to Nether"
+    - "  &7-&fSeries"
+    - "&aSeries &f2021"
+    - "&4&lNether"
+card84:
+  slot: 8
+  price: 75000.0
+  category: "cat8"
+  rarity: "Creatures"
+  displayName: "&7[&fCard&7] &4Magma Cube"
+  itemType: "PAPER"
+  lore:
+    - "&bType: &fNether Series"
+    - "&eInfo: "
+    - "  &7-&fExclusive to Nether"
+    - "  &7-&fSeries"
+    - "&aSeries &f2021"
+    - "&4&lNether"
+card85:
+  slot: 9
+  price: 75000.0
+  category: "cat8"
+  rarity: "Creatures"
+  displayName: "&7[&fCard&7] &4Piglin"
+  itemType: "PAPER"
+  lore:
+    - "&bType: &fNether Series"
+    - "&eInfo: "
+    - "  &7-&fExclusive to Nether"
+    - "  &7-&fSeries"
+    - "&aSeries &f2021"
+    - "&4&lNether"
+card86:
+  slot: 10
+  price: 75000.0
+  category: "cat8"
+  rarity: "Creatures"
+  displayName: "&7[&fCard&7] &4Wither"
+  itemType: "PAPER"
+  lore:
+    - "&bType: &fNether Series"
+    - "&eInfo: "
+    - "  &7-&fExclusive to Nether"
+    - "  &7-&fSeries"
+    - "&aSeries &f2021"
+    - "&4&lNether"
+
+# End
+card87:
+  slot: 0
+  price: 75000.0
+  category: "cat9"
+  rarity: "End"
+  displayName: "&7[&fCard&7] &fShulker"
+  itemType: "PAPER"
+  lore:
+    - "&bType: &fEnd Series"
+    - "&eInfo: "
+    - "  &7-&fExclusive to End Series"
+    - "&aSeries &f2021"
+    - "&f&lEnd"
+card88:
+  slot: 1
+  price: 75000.0
+  category: "cat9"
+  rarity: "End"
+  displayName: "&7[&fCard&7] &fEnder Dragon"
+  itemType: "PAPER"
+  lore:
+    - "&bType: &fEnd Series"
+    - "&eInfo: "
+    - "  &7-&fExclusive to End Series"
+    - "&aSeries &f2021"
+    - "&f&lEnd"
+card89:
+  slot: 2
+  price: 75000.0
+  category: "cat9"
+  rarity: "End"
+  displayName: "&7[&fCard&7] &fEnderman"
+  itemType: "PAPER"
+  lore:
+    - "&bType: &fEnd Series"
+    - "&eInfo: "
+    - "  &7-&fExclusive to End Series"
+    - "&aSeries &f2021"
+    - "&f&lEnd"
+card90:
+  slot: 3
+  price: 75000.0
+  category: "cat9"
+  rarity: "End"
+  displayName: "&7[&fCard&7] &fEndermite"
+  itemType: "PAPER"
+  lore:
+    - "&bType: &fEnd Series"
+    - "&eInfo: "
+    - "  &7-&fExclusive to End Series"
+    - "&aSeries &f2021"
+    - "&f&lEnd"
